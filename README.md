@@ -1,7 +1,17 @@
-# HALO PROJECT
-## Sistem Bimbingan Konseling SMK Taruna Bhakti
+<div align="center">
+  <h1>BIMBINGAN KONSELING</h1>
+  <p>
+    <strong>Sistem Bimbingan Konseling Berbasis Web & Mobile Terpadu</strong>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </p>
+</div>
 
-Sistem bimbingan konseling berbasis web dan mobile untuk mengelola jadwal konseling siswa di SMK Taruna Bhakti. Project ini terdiri dari aplikasi web (Next.js) dan aplikasi mobile (React Native/Expo) yang terintegrasi dengan database MySQL.
+Bimbingan Konseling is an integrated platform designed to facilitate counseling services effectively at SMK Taruna Bhakti. It features appointment scheduling, student records management, and secure communication between counselors and students. Project ini terdiri dari aplikasi web (Next.js) dan aplikasi mobile (React Native/Expo) yang terintegrasi dengan database MySQL.
 
 ---
 
@@ -23,7 +33,7 @@ Sistem bimbingan konseling berbasis web dan mobile untuk mengelola jadwal konsel
 
 ## 📖 Deskripsi Project
 
-HALO PROJECT adalah sistem bimbingan konseling yang memungkinkan:
+Sistem Bimbingan Konseling ini adalah sebuah *web-based* dan *mobile-based application* yang memungkinkan:
 - **Siswa** untuk membuat jadwal konseling, memilih guru BK, dan melihat history konseling
 - **Guru BK** untuk mengelola jadwal konseling, mengupdate status, dan menambahkan catatan
 - **Admin** untuk mengelola data siswa, guru, dan laporan konseling
